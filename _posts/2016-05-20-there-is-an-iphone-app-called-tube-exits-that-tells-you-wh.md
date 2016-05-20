@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'I finished my PhD in 2015 and I am currently a Teaching Fellow at the University of Bath. Sitting in my first ever lectures in 2006, I wondered what it would be like to teach them, and now I am finding out!'
-datePublished: '2016-05-20T08:05:47.574Z'
-dateModified: '2016-05-20T08:01:45.039Z'
+datePublished: '2016-05-20T09:37:01.457Z'
+dateModified: '2016-05-20T09:36:45.094Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-20-there-is-an-iphone-app-called-tube-exits-that-tells-you-wh.md
