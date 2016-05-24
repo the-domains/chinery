@@ -1,7 +1,8 @@
 name: chinery
 favicon: null
-layout_spectrum: 0.6719950535334647
-typography_spectrum: 0.912124989554286
+layout_spectrum: 0.53844
+typography_spectrum: 0.84868
+title: Andrew Chinery
 cta:
   domain: null
   bucket: null
@@ -24,5 +25,5 @@ color:
   brandStrength: 0.7920141245704144
   lightness: 0.14518975489772856
   saturation: 0.946322112577036
-  rhythmicContrast: 0.18197368178516626
+  rhythmicContrast: 0.5
 purpose: []
