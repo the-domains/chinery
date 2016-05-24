@@ -5,16 +5,16 @@ inNav: false
 inLanguage: null
 keywords: []
 description: "Once a fervid passion, and now just a simmering companion in life. I'm not sure whether the best camera is the one you have with you, but one thing is for certain: I do always have one with me, thanks to my phone. That has certainly subdued the need to carry around my chunky DSLR, extra lenses, battery pack, flash gun, reflector and so on. But they are not forgotten, and I would never turn down an offer of a photography expedition to some city, park, or whatever you fancy."
-datePublished: '2016-05-20T08:59:32.451Z'
-dateModified: '2016-05-20T08:59:13.016Z'
+datePublished: '2016-05-24T12:13:38.361Z'
+dateModified: '2016-05-24T12:06:54.297Z'
 title: Photography
 author:
   - name: ''
     url: ''
+sourcePath: _posts/2016-05-20-photography.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-05-20-photography.md
 url: photography/index.html
 _type: Article
 
