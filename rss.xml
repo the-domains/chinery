@@ -4,7 +4,7 @@
         <description><![CDATA[Andrew Chinery]]></description>
         <link>https://thegrid.ai/chinery/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 15 Aug 2016 17:16:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Aug 2016 17:16:48 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/chinery/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[About Chinery]]></title>
@@ -14,18 +14,18 @@
             <pubDate>Mon, 15 Aug 2016 17:16:33 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Teaching]]></title>
+            <description><![CDATA[<article><h1>Teaching</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ef2e6a46-7e96-4c78-b93e-2cd60a8befaf.jpg"></article>]]></description>
+            <link>https://thegrid.ai/chinery/teaching/index.html</link>
+            <guid isPermaLink="false">8a715819-eb3e-4cac-a902-9a7c28a1e13c</guid>
+            <pubDate>Mon, 15 Aug 2016 17:16:47 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Photography]]></title>
             <description><![CDATA[<article><h1>Photography</h1><p>Once a fervid passion, and now just a simmering companion in life. I'm not sure whether the best camera is the one you have with you, but one thing is for certain: I do always have one with me, thanks to my phone. That has certainly subdued the need to carry around my chunky DSLR, extra lenses, battery pack, flash gun, reflector and so on. But they are not forgotten, and I would never turn down an offer of a photography expedition to some city, park, or whatever you fancy.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f0911600c0a140388331fa69762960b911f7ae54.jpg"></article>]]></description>
             <link>https://thegrid.ai/chinery/photography/index.html</link>
             <guid isPermaLink="false">e2bc47d5-d66f-475b-b3ba-c90e699753ae</guid>
             <pubDate>Thu, 09 Jun 2016 14:32:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Teaching]]></title>
-            <description><![CDATA[<article><h1>Teaching</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ef2e6a46-7e96-4c78-b93e-2cd60a8befaf.jpg"></article>]]></description>
-            <link>https://thegrid.ai/chinery/teaching/index.html</link>
-            <guid isPermaLink="false">8a715819-eb3e-4cac-a902-9a7c28a1e13c</guid>
-            <pubDate>Mon, 23 May 2016 16:57:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
