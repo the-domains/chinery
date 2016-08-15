@@ -8,8 +8,8 @@ description: >-
   There is an iPhone app called "Tube Exits" that tells you where to get on the
   London Underground to be closest to the exit when you get off. A friend
   described this as "the most Chinery thing ever".
-datePublished: '2016-08-15T17:16:33.303Z'
-dateModified: '2016-08-15T17:15:34.150Z'
+datePublished: '2016-08-15T17:18:13.618Z'
+dateModified: '2016-08-15T17:17:54.819Z'
 author: []
 sourcePath: _posts/2016-05-20-about-chinery.md
 title: About Chinery
@@ -22,6 +22,7 @@ _type: Article
 
 ---
 # About Chinery
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/57575ea9-218e-4f14-8e98-e326d2b70fce.jpg)
 
 There is an iPhone app called "Tube Exits" that tells you where to get on the London Underground to be closest to the exit when you get off. A friend described this as "the most Chinery thing ever".
 
