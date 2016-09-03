@@ -28,6 +28,9 @@ navigation:
   - name: About Chinery
     id: 66815d66-c0aa-4afd-b914-4d81e0c4f754
     type: content
+  - name: Teaching
+    id: 8a715819-eb3e-4cac-a902-9a7c28a1e13c
+    type: content
 favicon: null
 title: Andrew Chinery
 purpose: []
