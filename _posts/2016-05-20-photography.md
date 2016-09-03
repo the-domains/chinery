@@ -12,15 +12,16 @@ description: >-
   battery pack, flash gun, reflector and so on. But they are not forgotten, and
   I would never turn down an offer of a photography expedition to some city,
   park, or whatever you fancy.
-datePublished: '2016-06-09T14:32:58.623Z'
-dateModified: '2016-06-09T14:32:45.615Z'
+datePublished: '2016-09-01T00:16:09.341Z'
+dateModified: '2016-09-01T00:16:08.425Z'
 title: Photography
 author:
   - name: ''
     url: ''
 sourcePath: _posts/2016-05-20-photography.md
 authors: []
-publisher: null
+publisher: {}
+via: {}
 starred: false
 url: photography/index.html
 _type: Article
