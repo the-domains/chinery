@@ -28,9 +28,6 @@ navigation:
   - name: About Chinery
     id: 66815d66-c0aa-4afd-b914-4d81e0c4f754
     type: content
-  - name: Photography
-    id: e2bc47d5-d66f-475b-b3ba-c90e699753ae
-    type: content
 favicon: null
 title: Andrew Chinery
 purpose: []
