@@ -31,6 +31,9 @@ navigation:
   - name: Teaching
     id: 8a715819-eb3e-4cac-a902-9a7c28a1e13c
     type: content
+  - name: Photography
+    id: e2bc47d5-d66f-475b-b3ba-c90e699753ae
+    type: content
 favicon: null
 title: Andrew Chinery
 purpose: []
