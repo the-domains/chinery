@@ -1,4 +1,4 @@
-typography_spectrum: 0.84868
+typography_spectrum: 0.31051781429567993
 color:
   brandColors:
     - '#A690A4'
@@ -6,20 +6,24 @@ color:
     - '#C8ACAB'
     - '#FBB9BF'
     - '#E376B7'
-  brandStrength: 0.7920141245704144
-  lightness: 0.14518975489772856
-  saturation: 0.946322112577036
-  rhythmicContrast: 0.5
+  brandStrength: 0.9070412024615867
+  lightness: 0.30479285555919355
+  saturation: 0.8508858412130745
+  rhythmicContrast: 0.23758131754603054
 opengraph:
   image: null
   type: null
   appId: null
-layout_spectrum: 0.53844
+layout_spectrum: 0.647298810785581
 analytics:
   google: null
   facebook: null
   twitter: null
-name: chinery
+author:
+  name: Andrew Chinery
+  email: andrewchinery@gmail.com
+  url: andych.in
+name: Chinery
 cta:
   domain: null
   bucket: null
@@ -28,6 +32,27 @@ navigation:
   - name: About Chinery
     id: 66815d66-c0aa-4afd-b914-4d81e0c4f754
     type: content
-favicon: null
+  - name: Tutoring
+    id: 8a715819-eb3e-4cac-a902-9a7c28a1e13c
+    type: content
+  - name: Coffee
+    id: 9fb38d13-56bc-483c-9aef-20a2cf2b73e7
+    type: content
+  - name: Coding
+    id: 34107b38-3504-4bad-92ea-8d6fa9e90ac5
+    type: content
+  - name: Photography
+    id: e2bc47d5-d66f-475b-b3ba-c90e699753ae
+    type: content
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/5dc4b1a7-9cc1-4091-80f4-33a5adf69dd1.png
 title: Andrew Chinery
-purpose: []
+content: []
+description: >-
+  Professional maths and computing tutor, online and around Leighton Buzzard.
+  That and my other hobbies. For all enquiries please feel free to email me.
+purpose:
+  - type: contact
+    url: 'mailto:andrewchinery@gmail.com'
+    label: Email Chinery
+github: true
