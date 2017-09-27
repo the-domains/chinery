@@ -1,20 +1,20 @@
-typography_spectrum: 0.31051781429567993
+layout_spectrum: 0.6052340471987971
+typography_spectrum: 0.2856877017671261
 color:
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
-  brandStrength: 0.9070412024615867
-  lightness: 0.30479285555919355
-  saturation: 0.8508858412130745
-  rhythmicContrast: 0.23758131754603054
+    - '#A7304F'
+    - '#F46D8D'
+    - '#F39EB5'
+    - '#081028'
+    - '#F0CEB7'
+  brandStrength: 0.3638868953257172
+  lightness: 1
+  saturation: 0.6376044486411432
+  rhythmicContrast: 0.8684078953887271
 opengraph:
   image: null
   type: null
   appId: null
-layout_spectrum: 0.647298810785581
 analytics:
   google: null
   facebook: null
@@ -65,7 +65,6 @@ content:
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
       keywords: []
       description: ''
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       app_links: []
       '@context': 'http://schema.org'
       '@type': MediaObject
